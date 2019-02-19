@@ -7,7 +7,7 @@ Due date: 11:59pm, 2/27/2019
 
 I posted my rop script in class (rop.py) for your reference.
 You are not required to use my script because it depends on pwntools.
-You can craft your script based on project description, which is cleaner.
+You can craft your script based on homework description below, which is cleaner.
 Note that my ROP may not work on every VM. You might need to re-generate the ROP payload and replace mine with yours.
 
 ## **Description**
