@@ -47,7 +47,7 @@ In this project, your main target is “libc.so” library that dynamically link
 3.	Now you can run `ROPgadget` to extract gadgets from libc library.
     * `$ ROPgadget --binary “libc_library_path” --offset “baseaddr_of_libc” --ropchain`
     * You can copy the python code into a file (e.g., rop.py) and insert padding bytes.
-    * You can execute the target program with exploits: `./bin/proj1_dep_username  ``` `python ./rop.py``` `
+    * You can execute the target program with exploits: ``./bin/proj1_dep_username `python ./rop.py` ``
     * If it fails, use gdb to find out the reason and fix it. Otherwise, you should be able to get a shell.
 
 ## Bonus: - 5 points!!!
