@@ -3,6 +3,13 @@
 Due date: 11:59pm, 2/27/2019
 
 
+## **NOTICE**
+
+I posted my rop script in class (rop.py) for your reference.
+You are not required to use my script because it depends on pwntools.
+You can craft your script based on project description, which is cleaner.
+Note that my ROP may not work on every VM. You might need to re-generate the ROP payload and replace mine with yours.
+
 ## **Description**
 
 In this project, you will produce return-oriented programming (ROP) attacks. You will use ROPGadget tool (https://github.com/JonathanSalwan/ROPgadget) to extract gadgets from the target binary and library. Then you will compose exploits that you can launch ROP attacks to the target program. 
