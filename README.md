@@ -5,11 +5,13 @@ Due date: 11:59pm, 2/27/2019
 
 ## **NOTICE**
 
-I posted my rop script in class (rop-inclass.py) for your reference. You can directly execute it to get a shell.
+1. I posted my rop script in class (rop-inclass.py) for your reference. You can directly execute it to get a shell.
 You are not required to use this because it depends on pwntools.
 You can craft your script based on homework description below, which is cleaner (see rop.py for example).
 It can be invoked by ``./your_program `python ./rop.py` ``
 Note that my ROP may not work on every VM. You might need to re-generate the ROP payload and replace mine with yours.
+
+2. You will find the information in quiz1 (quiz.docx)helpful for bonus part of hw2. Basically, you need to implement the same logic of the shellcode I gave you in the quiz in a ROP fashion.
 
 ## **Description**
 
