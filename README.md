@@ -76,5 +76,7 @@ Looks easy? Not really! The bonus for this exercise is **5 points**!!!
 2. ROPgadget: http://shell-storm.org/project/ROPgadget/
 3. GDB cheatsheet: http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
 4. For bonus part, you will find in-class quiz useful.
+5. A good tutorial for ROP: https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming
+ 
 
 
