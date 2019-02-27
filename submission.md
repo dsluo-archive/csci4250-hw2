@@ -1,7 +1,12 @@
 # Homework 2
 
 David Luo
+
 811357331
+
+## Experience
+
+This homework was pretty easy just following the steps listed in the pdf in the GitHub repo.
 
 ## Steps
 
